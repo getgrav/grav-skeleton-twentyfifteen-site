@@ -3,6 +3,8 @@ title: Sunshine in the Hills
 description: Feugiat interdum sed commodo ipsum consequat dolor nullam metus
 date: 14:55 07/11/2014
 author: Tasha Maxwell
+author_bio: Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+avatar: xtasha.jpg
 taxonomy:
     category: blog
     tag: [journal, photography]

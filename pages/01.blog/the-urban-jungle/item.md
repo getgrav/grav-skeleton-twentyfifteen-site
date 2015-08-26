@@ -3,6 +3,8 @@ title: The Urban Jungle
 description: Feugiat interdum sed commodo ipsum consequat dolor nullam metus
 date: 17:34 07/04/2014
 author: Kermit Frog
+author_bio: Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+avatar: xavatar.jpg
 taxonomy:
     category: blog
     tag: [travel, photography, city]

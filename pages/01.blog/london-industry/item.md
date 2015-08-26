@@ -2,6 +2,8 @@
 title: London Industry at Night
 date: 13:34 06/07/2014 
 author: Michael Reimer
+author_bio: Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+avatar: xavatar.jpg
 description: Feugiat interdum sed commodo ipsum consequat dolor nullam metus
 taxonomy:
     category: blog
