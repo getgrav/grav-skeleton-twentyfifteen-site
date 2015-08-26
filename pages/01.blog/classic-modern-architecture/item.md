@@ -1,5 +1,5 @@
 ---
-title: Classic Modern Architecture
+title: Ray of Light
 date: 17:34 06/27/2014 
 author: Mark Reison
 author_bio: Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
