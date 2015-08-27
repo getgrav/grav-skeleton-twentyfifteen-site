@@ -21,3 +21,13 @@ sidebar_position: left
 menu:
   - text: External link
     link: "#" 
+
+social:
+  - text: Twitter
+    url: http://twitter.com/getgrav
+  - text: Facebook
+    url: http://facebook.com
+  - text: Google
+    url: http://plus.google.com
+  - text: Github
+    url: https://github.com/getgrav/grav
