@@ -34,7 +34,7 @@ social:
     url: https://github.com/getgrav/grav
 
 # Presets
-current_preset: "custom"
+current_preset: ""
 
 presets:
   dark:
