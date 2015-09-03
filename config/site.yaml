@@ -33,9 +33,6 @@ social:
   - text: Github
     url: https://github.com/getgrav/grav
 
-# Presets
-current_preset: ""
-
 presets:
   dark:
     background_color : "#111111" 
