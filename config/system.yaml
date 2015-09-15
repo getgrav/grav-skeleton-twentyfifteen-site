@@ -3,11 +3,11 @@ home:
 
 pages:
   theme: twentyfifteen
-  markdown_extra: true
   process:
     markdown: true
     twig: false
-
+  markdown:
+    extra: true
 languages:
   supported:
     - en
